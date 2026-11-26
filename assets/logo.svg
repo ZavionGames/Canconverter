@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="42" viewBox="0 0 220 42"><title>canconverter</title><rect x="1" y="1" width="40" height="40" rx="11" fill="#163c32"/>
+<path d="M29.4 11.2H16.2l-6.5 6.5v12.9h14.5l7.6-7.6h-7l-3.3 3.2h-7.1v-6.6l3.8-3.8h6.6z" fill="#c1ef73"/>
+<path d="M30.8 12.6v6.9h-6.9z" fill="#fffdf3"/><defs>
+  <path id="c" d="M12.8 3.8A6.9 6.9 0 1 0 12.8 13.1"/>
+  <g id="a"><circle cx="7.8" cy="8.5" r="6.7"/><path d="M14.5 2v13.2"/></g>
+  <path id="n" d="M1.7 15V2m0 6.5a6 6 0 0 1 12 0V15"/>
+  <circle id="o" cx="8" cy="8.5" r="6.8"/>
+  <path id="v" d="m1 2 5.7 13h1.6l5.6-13"/>
+  <path id="e" d="M2 8.7h12.5a6.6 6.6 0 1 0-2.1 4.9"/>
+  <path id="r" d="M1.7 15V2m0 7.4c0-4.9 2.9-7.5 7-7.5"/>
+  <path id="t" d="M4-2v12c0 4.1 1.8 5.5 5.9 5m-9-12.4h8.3"/>
+</defs>
+<g transform="translate(50 13) scale(.89)" fill="none" stroke="#163c32" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+  <use href="#c"/><use href="#a" x="15.6"/><use href="#n" x="34.5"/>
+  <use href="#c" x="51.9"/><use href="#o" x="67.4"/><use href="#n" x="85.9"/>
+  <use href="#v" x="103.4"/><use href="#e" x="119.7"/><use href="#r" x="137.4"/>
+  <use href="#t" x="149.2"/><use href="#e" x="161.3"/><use href="#r" x="179.2"/>
+</g></svg>
