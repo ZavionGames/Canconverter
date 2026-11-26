@@ -10,13 +10,13 @@
         <div class="card-head"><span class="tile">${icon('layers')}</span><h2>Dosya kuyruğu</h2></div>
         <div class="source-body">
           <div id="batchDrop" class="batch-drop">
-            <img src="assets/dropzone-art.svg" alt="" class="art">
-            <h3>Görsellerini buraya bırak</h3>
+            
+            <h3>Görselleri buraya sürükleyip bırakın</h3>
             <p>JPG, PNG, WebP, BMP ve tek kareli GIF · Dosya başına 50 MB</p>
             <button type="button" class="primary" id="batchChoose">${icon('upload')} Dosya ekle</button>
             <input hidden id="batchFiles" type="file" multiple>
           </div>
-          <p class="privacy">${icon('lock')} Dosyaların cihazında işlenir.</p>
+          <p class="privacy">${icon('lock')} Dosyalar cihazınızda işlenir.</p>
           <div class="batch-list-head" id="batchListHead" hidden><h3 id="batchCount"></h3><button type="button" id="batchClear">Kuyruğu temizle</button></div>
           <ul class="batch-list" id="batchList" aria-label="Dönüştürme kuyruğu"></ul>
         </div>

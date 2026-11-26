@@ -60,6 +60,7 @@ syncFormatButtons();
 
 const studioTabs = [ui.hubMode, ui.singleMode, ui.batchMode];
 function activateMode(selected) {
+  ui.toolTitle.textContent = selected.textContent.trim();
   for (const tab of studioTabs) {
     const active = tab === selected;
     document.getElementById(tab.getAttribute('aria-controls')).hidden = !active;
